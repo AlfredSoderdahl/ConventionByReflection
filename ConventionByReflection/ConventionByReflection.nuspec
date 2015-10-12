@@ -2,6 +2,7 @@
 <package >
   <metadata>
     <id>ConventionByReflection</id>
+    <version></version>
     <authors>Alfred Söderdahl</authors>
     <owners>Alfred Söderdahl</owners>
     <licenseUrl>https://github.com/AlfredSoderdahl/ConventionByReflection/blob/master/LICENSE</licenseUrl>
