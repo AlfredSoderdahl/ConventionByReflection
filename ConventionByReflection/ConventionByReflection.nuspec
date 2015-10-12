@@ -9,8 +9,8 @@
     <projectUrl>https://github.com/AlfredSoderdahl/ConventionByReflection</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Classes using reflection to find implementations by convention</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
-    <copyright>Copyright (c) 2015 Alfred Söderdahl</copyright>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright © 2015 Alfred Söderdahl</copyright>
     <tags>Reflection Conventions</tags>
   </metadata>
 </package>
